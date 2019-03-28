@@ -813,6 +813,13 @@
                     <view key="view" id="QAf-3x-eFh">
                         <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <imageView horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="6AR-Vs-Czt">
+                                <rect key="frame" x="0.0" y="0.0" width="450" height="300"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+                                <imageCell key="cell" refusesFirstResponder="YES" alignment="left" imageScaling="proportionallyDown" id="pu8-UQ-AEL"/>
+                            </imageView>
+                        </subviews>
                     </view>
                 </viewController>
                 <customObject id="Y4h-wh-Ob8" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
