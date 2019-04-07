@@ -44,7 +44,6 @@ class SourceViewController: NSViewController, NSTableViewDataSource, NSTableView
         guard let splictVC = parent as? NSSplitViewController else {return}
         
         if let detail = splictVC.children[1] as? DetailViewController {
-            print(pictures[tableView.selectedRow])
             detail.imageSelected(name: pictures[tableView.selectedRow])
         }
     }
