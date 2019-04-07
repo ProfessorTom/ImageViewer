@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9747BBB72259820C00E87A87 /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9747BBB62259820C00E87A87 /* WindowController.swift */; };
 		978116BA224D2E45004CEFA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978116B9224D2E45004CEFA1 /* AppDelegate.swift */; };
 		978116BC224D2E45004CEFA1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 978116BB224D2E45004CEFA1 /* ViewController.swift */; };
 		978116BE224D2E48004CEFA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 978116BD224D2E48004CEFA1 /* Assets.xcassets */; };
@@ -45,6 +46,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9747BBB62259820C00E87A87 /* WindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 		978116B6224D2E45004CEFA1 /* Image Viewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Image Viewer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		978116B9224D2E45004CEFA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		978116BB224D2E45004CEFA1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				978116BB224D2E45004CEFA1 /* ViewController.swift */,
 				978116BD224D2E48004CEFA1 /* Assets.xcassets */,
 				978116BF224D2E48004CEFA1 /* Main.storyboard */,
+				9747BBB62259820C00E87A87 /* WindowController.swift */,
 				978116FC224D3B9C004CEFA1 /* SourceViewController.swift */,
 				978116FE224D3C28004CEFA1 /* DetailViewController.swift */,
 				978116C2224D2E48004CEFA1 /* Info.plist */,
@@ -309,6 +312,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				978116BC224D2E45004CEFA1 /* ViewController.swift in Sources */,
+				9747BBB72259820C00E87A87 /* WindowController.swift in Sources */,
 				978116BA224D2E45004CEFA1 /* AppDelegate.swift in Sources */,
 				978116FD224D3B9C004CEFA1 /* SourceViewController.swift in Sources */,
 				978116FF224D3C28004CEFA1 /* DetailViewController.swift in Sources */,
