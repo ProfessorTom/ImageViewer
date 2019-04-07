@@ -116,10 +116,10 @@
             </objects>
             <point key="canvasLocation" x="75" y="250"/>
         </scene>
-        <!--Split View Controller-->
+        <!--View Controller-->
         <scene sceneID="bKp-pR-jAS">
             <objects>
-                <splitViewController id="Vf4-Qi-nmE" sceneMemberID="viewController">
+                <splitViewController id="Vf4-Qi-nmE" customClass="ViewController" customModule="Image_Viewer" customModuleProvider="target" sceneMemberID="viewController">
                     <splitViewItems>
                         <splitViewItem holdingPriority="260" id="WhN-Jn-c5i"/>
                         <splitViewItem id="okX-w3-uYB"/>
